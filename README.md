@@ -22,3 +22,6 @@ What I have created is a simple TODO application using native JavaScript, HTML, 
 7. Click on the "Delete All" button to delete all tasks
 
    -Based on how well I think I've done, I'd give myself a score of 25 to 30 points. I made sure to do everything the assignment required and created an app that functions smoothly and has good UI. I also managed to deploy it on Netlify and GitHub. I included dynamic events as well as buttons that gives the users a shortcut into deleting all events or completing them, and made sure there aren't any errors in the code.
+
+Link to Github: https://github.com/nasimal97/ToDoApp.git
+Link to Netlify: https://main--todoappteam.netlify.app/
